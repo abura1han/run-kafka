@@ -6,7 +6,7 @@ The easiest way to run your zookeeper and Kafka server.
 \>_ Download Kafka Binary Release from [https://kafka.apache.org/downloads](https://kafka.apache.org/downloads) <br />
 \>_ Install Java on your computer & run `java -version` <br />
 If it shows java version that means you have installed java successfully. <br />
-\>_ Extract your downloaded Kafka.
+\>_ Extract your downloaded Kafka. <br />
 \>_ Clone this repo using.
 ```bash
 git clone https://github.com/abura1han/run-kafka.git
